@@ -1,12 +1,15 @@
-# Configuration Files
----
-- Install **neovim**
-
-- Instal **alacritty** 
-
-- Install **zsh** 
-
-- Instal **oh-my-zsh** 
-
-- Instal **tmux** 
-
+# List of candidates to install 
+- python 3
+- pipenv
+- alacritty
+- neovim
+- rust
+- docker
+- docker-compose
+- zsh
+- oh-my-zsh
+- tmux
+- starship
+- fonts -> Inconsolata
+- figma 
+- 
